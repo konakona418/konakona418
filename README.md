@@ -1,16 +1,26 @@
-## Hi there 👋
+### About me
+freshman at NPU, Shaanxi Province, China.
 
-<!--
-**konakona418/konakona418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+currently working on:
+- computer graphics
+- middleware
+- compiler principles
+- video codec
 
-Here are some ideas to get you started:
+current learning:
+- rust
+- golang
+- c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+recent days i've been working on the the simplified Chinese translation for the book [_Ray Tracing in One Weekend_](https://github.com/RayTracing/raytracing.github.io).
+
+### Status
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=konakona418&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Preferred languages
+![Python](https://img.shields.io/badge/python-orange?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black) 
+![Rust](https://img.shields.io/badge/rust-E33B26?style=for-the-badge&logo=rust&logoColor=white)
