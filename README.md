@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/affc365f-065f-4084-8407-4f441dc2e1c6.svg)](https://wakatime.com/@affc365f-065f-4084-8407-4f441dc2e1c6)
+[![wakatime](https://wakatime.com/badge/user/796dbbf4-33bf-4edf-81e5-97c931847427.svg)](https://wakatime.com/@796dbbf4-33bf-4edf-81e5-97c931847427)
 
 ### About me
 freshman at NPU, Shaanxi Province, China.
