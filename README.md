@@ -1,7 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/796dbbf4-33bf-4edf-81e5-97c931847427.svg)](https://wakatime.com/@796dbbf4-33bf-4edf-81e5-97c931847427)
 
 ### About me
-freshman at NPU, Shaanxi Province, China.
+Sophomore at NWPU, Shaanxi Province, China.
+
+Major in software engineering.
 
 currently working on:
 - schoolwork
@@ -12,8 +14,6 @@ current learning:
 - rust
 - golang
 - c++
-
-recent days i've been working on the the simplified Chinese translation for the book [_Ray Tracing in One Weekend_](https://github.com/RayTracing/raytracing.github.io).
 
 ### Status
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=konakona418&show_icons=true&theme=transparent)
