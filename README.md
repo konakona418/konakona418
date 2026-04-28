@@ -1,5 +1,9 @@
 [![wakatime](https://wakatime.com/badge/user/796dbbf4-33bf-4edf-81e5-97c931847427.svg)](https://wakatime.com/@796dbbf4-33bf-4edf-81e5-97c931847427)
 
+**I'm considering migrating my account data to Codeberg. Please go to: https://codeberg.org/iwakura-lain**
+
+**This account will still be used for open source project contributions.**
+
 ### About me
 Sophomore at NWPU, Shaanxi Province, China. Major in software engineering.
 
