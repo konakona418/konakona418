@@ -1,13 +1,11 @@
 [![wakatime](https://wakatime.com/badge/user/796dbbf4-33bf-4edf-81e5-97c931847427.svg)](https://wakatime.com/@796dbbf4-33bf-4edf-81e5-97c931847427)
 
-**I'm considering migrating my account data to Codeberg. Please go to: https://codeberg.org/iwakura-lain**
-
-**This account will still be used for open source project contributions.**
+**You can also visit my profile at Codeberg: https://codeberg.org/iwakura-lain**
 
 ### About me
-Sophomore at NWPU, Shaanxi Province, China. Major in software engineering.
+Sophomore at NWPU, Shaanxi Province, China. Pursuing a Bachelor's degree in Computer Science.
 
-Currently has nothing to do.
+Currently has nothing special to do.
 
 Profile image from anime _[Haibane Renmei](https://en.wikipedia.org/wiki/Haibane_Renmei)_.
 
