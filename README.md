@@ -17,7 +17,7 @@ Profile image from anime _[Haibane Renmei](https://en.wikipedia.org/wiki/Haibane
 
 I'm a contributor of
 
-- linux kernel
+- [linux kernel](https://github.com/torvalds/linux/commit/ca51771c8efde5df05476ac98dd1b2af4e2b149f)
 - raylib
 - libuv
 - shader-slang
